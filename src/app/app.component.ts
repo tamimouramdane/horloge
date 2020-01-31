@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styles: [`:host { display: grid; justify-items: center; }`]
 })
 export class AppComponent {
-  title = 'Angular Canvas Clock';
-  subtitle = 'Stackblitz = Awesome';
+  title = 'Horloge analogique';
+ 
 }
